@@ -26,13 +26,10 @@ Conway's Game of Life is a zero-player game developed by John Conway. It consist
 - **CSS3**: Styling, animations, and hover effects.
 - **JavaScript**: Game logic, grid drawing, and user interactivity.
 
-## Installation
+## Video Walkthrough
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/game-of-life.git
-
+Here's a walkthrough of the project:
+<img src = 'https://github.com/AreebEhsan/Game-of-Life/blob/main/Game%20of%20Life%20Demo.gif' title = 'Video Walkthrough' width ='' alt = 'Video Walkthrough'/>
 Rules:
 
 	•	The Game of Life is played on a grid of cells, each of which can be in one of two states: alive or dead.
