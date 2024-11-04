@@ -1,6 +1,8 @@
 # Conway's Game of Life Simulator
 
-This is a **JavaScript implementation** of Conway's Game of Life, a cellular automaton that simulates the life and death of cells on a grid based on specific rules. This project includes a **visual simulator** where users can control speed, toggle cells, and reset the simulation, with generation tracking for each update. ## About Conway's Game of Life
+This is a **JavaScript implementation** of Conway's Game of Life, a cellular automaton that simulates the life and death of cells on a grid based on specific rules. This project includes a **visual simulator** where users can control speed, toggle cells, and reset the simulation, with generation tracking for each update. 
+
+## About Conway's Game of Life
 
 Conway's Game of Life is a zero-player game developed by John Conway. It consists of a grid of cells that evolve based on simple rules:
 
